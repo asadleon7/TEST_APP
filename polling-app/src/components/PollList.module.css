@@ -1,0 +1,41 @@
+/* PollList.module.css */
+
+  
+  .pollCard {
+  background-color: #3b7fa3;
+  padding: 2vw;  /* Padding relative to viewport width */
+  width: 80vw;   /* Width relative to viewport width */
+  max-width: 600px;  /* Maximum width to prevent it from getting too large on large screens */
+  margin: 0 auto;  /* Center the card horizontally */
+  border-radius: 12px;  /* Rounded corners */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);  /* Add shadow */
+}
+  
+  .voteButton {
+    margin-bottom: 8px;
+    background-color: #eff0f1;
+    color: #020202;
+  }
+  
+  .resultsContainer {
+    margin-top: 16px;
+    border-radius: 12px;
+    border: 2px solid #ffffff;
+    padding: 16px;
+    background-color: #285570;
+    text-align:left; /* Centering the content */
+  }
+  
+  .resultItem {
+    font-weight: bold;
+    color: #f7f7f7;
+    list-style-type: none; /* Remove bullet points */
+  }
+  
+  .resultHeading {
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: #ffffff;
+  }
+  
