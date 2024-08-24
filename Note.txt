@@ -1,0 +1,11 @@
+Test Intake System
+Welcome to our testing system. Please read the instructions below.
+
+When you click "Give me a Task" you will get to the page that will provide you with 3 options for the test tasks. All tasks are equally good and don't give advantage.
+The one who completes the task faster and with quality wins
+You can pick any ONE task from those three. DO NOT BUILD ALL 3!
+You do not need to tell us which one you picked - just do it and provide the link to Git Repository
+Once you read the description, please use ChatGPT for all clarifying questions and instructions on how to build, test and deploy the code
+You must upload the resulting code to Git repository of your choice (we recommend GitHub as it's free)
+You can close the window once you pick the task and come back at any time later - the timer will be ticking and you won't lose anything
+We will compile and start your code
