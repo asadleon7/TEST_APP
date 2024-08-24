@@ -1,1 +1,1 @@
-This is a test application for a test.
+This is a test application for a test.# TEST_APP
